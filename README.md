@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pranjli</h1>
 <h3 align="center">Data Science | Cognitive Science</h3>
 
-I'm a passionate Data Science Intern at Carnegie Learning, where I work on exciting projects that leverage data to improve student learning experiences. With a background in Cognitive Science and Machine Learning, I love diving into educational technology and exploring how students learn.
+I'm a Data Science Intern at Carnegie Learning, where I work on exciting projects that leverage data to improve student learning experiences. With a background in Cognitive Science and Machine Learning, I love diving into educational technology and exploring how students learn.
 
 I’m currently working on enhancing predictive models for student success and exploring the connection between student behaviors and learning outcomes.
 
