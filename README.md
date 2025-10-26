@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pranjli</h1>
-<h3 align="center">Data Science | Cognitive Science</h3>
+<h3 align="center">Data Science | Machine Learning | Cognitive Science</h3>
 
 I’m a **Data Scientist at Carnegie Learning**, where I design and validate assessments, build predictive models, and analyze how student behaviors connect to learning outcomes.  
 With a background in **Cognitive Science and Machine Learning**, I’m passionate about using data to improve education and make learning more effective and accessible.  
