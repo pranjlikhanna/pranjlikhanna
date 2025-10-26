@@ -52,9 +52,6 @@ I enjoy working at the intersection of **educational data mining, psychometrics,
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
   </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" alt="langchain" width="40" height="40"/> 
-  </a>
   
   <!-- Data Engineering / MLOps -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
