@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pranjli</h1>
-<h3 align="center">Data Science | Machine Learning | Cognitive Science</h3>
+<h3 align="center"> Machine Learning | Cognitive Science</h3>
 
-I’m a **Data Scientist at Carnegie Learning**, where I design and validate assessments, build predictive models, and analyze how student behaviors connect to learning outcomes.  
+I’m a **Machine Learning Engineer at Learning Commons**, where I build and ship ML systems that support better learning experiences.
 With a background in **Cognitive Science and Machine Learning**, I’m passionate about using data to improve education and make learning more effective and accessible.  
 
 I enjoy working at the intersection of **educational data mining, psychometrics, and machine learning**, and I love turning messy data into meaningful insights that drive impact.
